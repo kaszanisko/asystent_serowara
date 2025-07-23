@@ -1,1 +1,1 @@
-FROM gitpod/workspace-flutter
+FROM ghcr.io/gitpod-io/workspace-flutter:latest
